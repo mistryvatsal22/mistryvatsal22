@@ -66,14 +66,12 @@
 
 ---
 
-## 🏅 Achievements & Certifications
+<h3 align="left">🏆 Achievements:</h3>
 
-- 🏆 **Smart India Hackathon 2023** Participant  
-- 🥇 **Code Wars** Coordinator at Lakshya 2023  
-- 📜 MongoDB Certificate – Simplilearn (Feb 2025)  
-- 📜 SQL Certificate – Scaler Topics (Feb 2025)  
-- ⚙️ Participated in C Workshop @ INN-O-SPARK 2021
-
+- 🎯 **SIH Hackathon 2023 Participant**  
+- 🏅 **Certified in MongoDB (Simplilearn, Feb 2025)**  
+- 🏅 **Certified in SQL using MySQL (Scaler Topics, Feb 2025)**  
+- 🎓 **C Workshop at INN-O-SPARK (L.D. College of Engineering, 2021)**  
 ---
 
 ## 📫 Let's Connect
