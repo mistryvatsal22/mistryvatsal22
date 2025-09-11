@@ -5,7 +5,7 @@
   <a href="https://github.com/mistryvatsal22"><img src="https://img.shields.io/github/followers/mistryvatsal22?label=Follow&style=social" alt="GitHub"></a>
   <a href="https://linkedin.com/in/vatsal-mistry-83589a28a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
   <a href="mailto:vatsalmistry206@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="http://127.0.0.1:5500/index.html"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio"></a>
+  <a href="https://mistryvatsal22.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio"></a>
 </p>
 
 ---
