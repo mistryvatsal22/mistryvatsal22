@@ -128,6 +128,26 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 🔗 **GitHub:** *
 
+🚗 Driver Drowsiness Detection System
+
+Tech Stack: Python | OpenCV | Computer Vision
+
+Developed a real-time driver drowsiness detection system using computer vision.
+Detected driver fatigue by monitoring eye movements and calculating the Eye Aspect Ratio (EAR).
+Triggered instant alerts when prolonged eye closure indicated drowsiness.
+Processed live webcam video for continuous facial landmark detection.
+Improved road safety by providing timely fatigue warnings to drivers.
+
+🛍️ One District, One Product
+
+Tech Stack: MongoDB | Express.js | React.js | Node.js | JavaScript
+
+Developed a full-stack web application to showcase unique products from different districts across India.
+Built an interactive map interface allowing users to select their state and district.
+Implemented REST APIs for efficient product retrieval and management.
+Stored and managed product information using MongoDB.
+Designed a responsive and user-friendly interface to promote local businesses and regional products.
+
 ---
 
 # 🏆 Certifications
