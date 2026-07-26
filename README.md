@@ -1,14 +1,14 @@
 # Hi 👋, I'm Vatsal Mistry
 
-### 🚀 Data Engineer | Big Data Analytics Enthusiast | AI & Machine Learning Developer
+###  Data Engineer | Big Data Analytics Enthusiast | AI & Machine Learning Developer
 
 I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python, SQL, Apache Spark (PySpark), Hadoop, Hive, Kafka, Airflow, Machine Learning, NLP, RAG, and Tableau**. I enjoy building scalable data pipelines, developing AI-powered applications, and transforming raw data into meaningful business insights through analytics and visualization.
 
 ---
 
-# 🛠️ Skills & Technologies
+# Skills & Technologies
 
-### 💻 Programming
+### Programming
 - Python
 - SQL
 
@@ -20,12 +20,12 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Apache Kafka
 - Apache Airflow
 
-### 🗄️ Databases
+### Databases
 - MySQL
 - MongoDB
 - ChromaDB
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 - Machine Learning
 - Deep Learning
 - Natural Language Processing (NLP)
@@ -37,14 +37,14 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Embedding Models
 - Vector Search
 
-### 📊 Data Analytics & Visualization
+### Data Analytics & Visualization
 - Tableau
 - Microsoft Excel
 - Pandas
 - NumPy
 - Matplotlib
 
-### 🔄 Data Engineering
+### Data Engineering
 - ETL Pipelines
 - Data Ingestion
 - Data Processing
@@ -53,38 +53,38 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Data Validation
 - Data Modeling
 
-### 🖥️ Operating Systems
+### Operating Systems
 - Linux
 
 ---
 
-# 🎓 Education
+# Education
 
-### 🎓 Post Graduate Certificate Program in Big Data Analytics (PGCP-BDA)
+### Post Graduate Certificate Program in Big Data Analytics (PGCP-BDA)
 **Centre for Development of Advanced Computing (C-DAC), Know-IT, Pune**
 - **Duration:** February 2026 – August 2026
 - **Percentage:** **79.06%**
 
-### 🎓 Bachelor of Engineering in Information Technology
+###  Bachelor of Engineering in Information Technology
 **L.D. College of Engineering, Ahmedabad**
 - **Duration:** 2021 – 2025
 - **CGPA:** **8.10**
 
-### 🏫 Higher Secondary Education (Class XII)
+### Higher Secondary Education (Class XII)
 **A.B. Higher Secondary School, Navsari, Gujarat (GSEB)**
 - **Year:** 2021
 - **Percentage:** **88.00%**
 
-### 🏫 Secondary Education (Class X)
+###  Secondary Education (Class X)
 **A.B. Higher Secondary School, Navsari, Gujarat (GSEB)**
 - **Year:** 2019
 - **Percentage:** **87.00%**
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## ⚽ AI-Driven Football Talent Discovery & Scouting Analytics
+##  AI-Driven Football Talent Discovery & Scouting Analytics
 
 **Tech Stack:** Python | Machine Learning | RAG | Tableau | HTML | CSS | JavaScript
 
@@ -99,7 +99,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 ---
 
-## 🚖 Ride Sharing Analytics Platform
+## Ride Sharing Analytics Platform
 
 **Tech Stack:** Python | PySpark | Hadoop | Hive | Kafka | Airflow | Tableau
 
@@ -114,7 +114,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 ---
 
-## 🤖 Ollama Chat Application
+## Ollama Chat Application
 
 **Tech Stack:** Python | LangChain | RAG | ChromaDB | Ollama | Streamlit | LLM
 
@@ -129,7 +129,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 ---
 
-## 🚗 Driver Drowsiness Detection System
+## Driver Drowsiness Detection System
 
 **Tech Stack:** Python | OpenCV | Computer Vision
 
@@ -141,7 +141,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 ---
 
-## 🛍️ One District, One Product
+## One District, One Product
 
 **Tech Stack:** MongoDB | Express.js | React.js | Node.js | JavaScript
 
@@ -155,15 +155,16 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 ---
 
-# 🏆 Certifications
-
-- 🏅 MongoDB Certification – Simplilearn
-- 🏅 SQL using MySQL – Scaler Topics
-- 🏅 C Workshop – INN-O-SPARK, L.D. College of Engineering
+# Certifications
+- HackerRank SQL - Basic | Intermediate | Advanced
+- LeetCode: Solved 50+ SQL coding challenges covering joins, subqueries, CTEs, window functions, and aggregations
+- MongoDB Certification – Simplilearn
+- SQL using MySQL – Scaler Topics
+- C Workshop – INN-O-SPARK, L.D. College of Engineering
 
 ---
 
-# 💡 Areas of Interest
+# Areas of Interest
 
 - Data Engineering
 - Big Data Analytics
@@ -177,17 +178,17 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
-📧 **Email:** vatsalmistry206@gmail.com
+ **Email:** vatsalmistry206@gmail.com
 
-📱 **Phone:** +91 7567000814
+**Phone:** +91 7567000814
 
-💼 **LinkedIn:** https://linkedin.com/in/vatsal-mistry-83589a28a
+**LinkedIn:** https://linkedin.com/in/vatsal-mistry-83589a28a
 
-💻 **GitHub:** https://github.com/mistryvatsal22
+**GitHub:** https://github.com/mistryvatsal22
 
-🌐 **Portfolio:** https://mistryvatsal22.github.io/my_portfolio
+ **Portfolio:** https://mistryvatsal22.github.io/my_portfolio
 
 ---
 
