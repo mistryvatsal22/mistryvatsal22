@@ -125,7 +125,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Implemented conversation memory for context-aware responses.
 - Designed an intuitive Streamlit interface for seamless user interaction.
 
-🔗 **GitHub:** *Add Repository Link*
+🔗 *[*GitHub](https://github.com/mistryvatsal22/Ollama-chat-Application.git):** *https://github.com/mistryvatsal22/Ollama-chat-Application.git*
 
 ---
 
