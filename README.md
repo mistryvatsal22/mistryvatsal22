@@ -1,88 +1,169 @@
-<h1 align="center">Hi 👋, I'm Vatsal Mistry</h1>
-<h3 align="center">Aspiring Software Developer | Python Enthusiast | MERN Stack Developer | AI Explorer</h3>
+# Hi 👋, I'm Vatsal Mistry
 
-<p align="center">
-  <a href="https://github.com/mistryvatsal22"><img src="https://img.shields.io/github/followers/mistryvatsal22?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/vatsal-mistry-83589a28a"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-  <a href="mailto:vatsalmistry206@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://mistryvatsal22.github.io/my_portfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-brightgreen" alt="Portfolio"></a>
-</p>
+### 🚀 Data Engineer | Big Data Analytics Enthusiast | AI & Machine Learning Developer
+
+I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python, SQL, Apache Spark (PySpark), Hadoop, Hive, Kafka, Airflow, Machine Learning, NLP, RAG, and Tableau**. I enjoy building scalable data pipelines, developing AI-powered applications, and transforming raw data into meaningful business insights through analytics and visualization.
 
 ---
 
-## 👨‍💻 About Me
+# 🛠️ Skills & Technologies
 
-- 🔭 Currently working as a **Python Developer Intern** at [Adis Technologies](https://adistechnology.com)
-- 💡 Exploring **AI integrations**, real-time web apps, and automation tools
-- 👨‍🎓 Pursuing **B.E. in Information Technology** from L.D. College of Engineering (Ahmedabad)
-- ⚡ Fun fact: I love turning ideas into digital experiences ✨
+### 💻 Programming
+- Python
+- SQL
 
----
+### ⚙️ Big Data Ecosystem
+- Apache Spark (PySpark)
+- Hadoop (HDFS)
+- Apache Hive
+- HBase
+- Apache Kafka
+- Apache Airflow
 
-## 💼 Experience
+### 🗄️ Databases
+- MySQL
+- MongoDB
+- ChromaDB
 
-### 🏢 Adis Technologies (Jan 2025 – Present)
-- Developed and deployed Python-based web apps
-- Integrated APIs and optimized code performance
-- Managed databases and worked in Agile teams
+### 🤖 AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Ollama
+- Prompt Engineering
+- Embedding Models
+- Vector Search
 
-### 📊 Infolabz IT Services (Jun 2024 – Jul 2024)
-- Hands-on work with API data, Pandas, and Matplotlib
-- Built basic ML models to uncover insights
+### 📊 Data Analytics & Visualization
+- Tableau
+- Microsoft Excel
+- Pandas
+- NumPy
+- Matplotlib
 
----
+### 🔄 Data Engineering
+- ETL Pipelines
+- Data Ingestion
+- Data Processing
+- Data Transformation
+- Workflow Orchestration
+- Data Validation
+- Data Modeling
 
-## 🚀 Projects
-
-### 💬 [Ollama Chat Application](https://github.com/mistryvatsal22/Ollama-Chat-Application)
-> AI-powered recruitment assistant using **Ollama**, **Flask**, **React**, and **MongoDB**
-- Resume parsing and intelligent interview scheduling
-- Built real-time chat interface with AI backend support
-
-### 🗺️ [One District One Product](https://github.com/mistryvatsal22/One-District-One-Product.git)
-> Discover local products across India using a map-based MERN application  
-- Interactive frontend (React.js, Bootstrap) + Node/Express backend
-- Data stored in MongoDB and dynamically fetched
-
-### 🖱️ Virtual Mouse
-> Control your cursor with gestures using **Python**, **OpenCV**, **MediaPipe**, **PyAutoGUI**  
-- Real-time hand tracking and gesture mapping for click/scroll
-
-### 🛑 Driver Drowsiness Detection
-> Detect driver fatigue using **Dlib**, **OpenCV**, and facial landmark tracking  
-- Triggers alerts if eyes are closed for prolonged time
-
----
-
-## 🛠️ Skills
-
-- **Languages:** Python, Java, C
-- **Frontend:** HTML, CSS, JavaScript (ES6+), React.js
-- **Backend:** Node.js, Express.js, Django, Flask
-- **Database:** MongoDB, MySQL
-- **Tools:** GitHub, VS Code
-- **Libraries/Frameworks:** Pandas, NumPy, Matplotlib, Bootstrap
-- **Concepts:** OOP, DSA, API Integration, MVC
+### 🖥️ Operating Systems
+- Linux
 
 ---
 
-<h3 align="left">🏆 Achievements:</h3>
+# 🎓 Education
 
-- 🎯 **SIH Hackathon 2023 Participant**  
-- 🏅 **Certified in MongoDB (Simplilearn, Feb 2025)**  
-- 🏅 **Certified in SQL using MySQL (Scaler Topics, Feb 2025)**  
-- 🎓 **C Workshop at INN-O-SPARK (L.D. College of Engineering, 2021)**  
+### 🎓 Post Graduate Certificate Program in Big Data Analytics (PGCP-BDA)
+**Centre for Development of Advanced Computing (C-DAC), Know-IT, Pune**
+- **Duration:** February 2026 – August 2026
+- **Percentage:** **79.06%**
+
+### 🎓 Bachelor of Engineering in Information Technology
+**L.D. College of Engineering, Ahmedabad**
+- **Duration:** 2021 – 2025
+- **CGPA:** **8.10**
+
+### 🏫 Higher Secondary Education (Class XII)
+**A.B. Higher Secondary School, Navsari, Gujarat (GSEB)**
+- **Year:** 2021
+- **Percentage:** **88.00%**
+
+### 🏫 Secondary Education (Class X)
+**A.B. Higher Secondary School, Navsari, Gujarat (GSEB)**
+- **Year:** 2019
+- **Percentage:** **87.00%**
+
 ---
 
-## 📫 Let's Connect
+# 🚀 Featured Projects
 
-- 🌐 Portfolio: [geeky-bytes-weld.vercel.app](https://geeky-bytes-weld.vercel.app/)
-- 📧 Email: [vatsalmistry206@gmail.com](mailto:vatsalmistry206@gmail.com)
-- 🧑‍💼 LinkedIn: [linkedin.com/in/vatsal-mistry-83589a28a](https://linkedin.com/in/vatsal-mistry-83589a28a)
+## ⚽ AI-Driven Football Talent Discovery & Scouting Analytics
+
+**Tech Stack:** Python | Machine Learning | RAG | Tableau | HTML | CSS | JavaScript
+
+- Built an end-to-end football scouting platform using Machine Learning.
+- Developed ETL pipelines to clean, validate, and transform player datasets.
+- Implemented feature engineering for xG, Talent Score, and Market Value prediction.
+- Built player recommendation, clustering, hidden gem detection, and rating prediction models.
+- Integrated a Retrieval-Augmented Generation (RAG) chatbot for intelligent scouting insights.
+- Designed interactive Tableau dashboards for player and team analytics.
+
+🔗 **GitHub:** *Add Repository Link*
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mistryvatsal22&show_icons=true&theme=radical" alt="Vatsal's GitHub stats">
-</p>
+## 🚖 Ride Sharing Analytics Platform
 
+**Tech Stack:** Python | PySpark | Hadoop | Hive | Kafka | Airflow | Tableau
+
+- Designed and developed a scalable Ride Sharing Analytics Platform.
+- Built end-to-end ETL pipelines for ride booking data.
+- Processed massive datasets using Apache Spark (PySpark).
+- Automated workflows with Apache Airflow.
+- Implemented real-time data ingestion using Apache Kafka.
+- Generated business insights including revenue, trip demand, customer behavior, weather impact, and driver performance.
+- Developed Tableau dashboards for operational analytics.
+
+🔗 **GitHub:** *Add Repository Link*
+
+---
+
+## 🤖 Ollama Chat Application
+
+**Tech Stack:** Python | LangChain | RAG | ChromaDB | Ollama | Streamlit | LLM
+
+- Developed a local AI-powered chatbot supporting multiple Large Language Models.
+- Implemented document-based question answering using Retrieval-Augmented Generation (RAG).
+- Added support for PDF, DOCX, Images, Websites, and Text documents.
+- Integrated ChromaDB for semantic vector search.
+- Added conversation memory for improved contextual responses.
+- Designed an intuitive Streamlit interface for seamless user interaction.
+
+🔗 **GitHub:** *Add Repository Link*
+
+---
+
+# 🏆 Certifications
+
+- 🏅 MongoDB Certification – Simplilearn
+- 🏅 SQL using MySQL – Scaler Topics
+- 🏅 C Workshop – INN-O-SPARK, L.D. College of Engineering
+
+---
+
+# 💡 Areas of Interest
+
+- Data Engineering
+- Big Data Analytics
+- Artificial Intelligence
+- Machine Learning
+- Generative AI
+- Data Pipelines
+- Cloud Computing
+- Distributed Systems
+- Business Intelligence
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email:** vatsalmistry206@gmail.com
+
+📱 **Phone:** +91 7567000814
+
+💼 **LinkedIn:** https://linkedin.com/in/vatsal-mistry-83589a28a
+
+💻 **GitHub:** https://github.com/mistryvatsal22
+
+🌐 **Portfolio:** https://mistryvatsal22.github.io/my_portfolio
+
+---
+
+⭐ *"Turning Data into Insights and Ideas into Intelligent Solutions."*
