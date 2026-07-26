@@ -110,7 +110,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Implemented real-time data ingestion with Apache Kafka.
 - Developed interactive Tableau dashboards for revenue, trip demand, customer behavior, driver performance, and operational insights.
 
-🔗 **GitHub:** *Add Repository Link*
+🔗 **GitHub:** *https://github.com/mistryvatsal22/Ride-Sharing-Analytics.git*
 
 ---
 
