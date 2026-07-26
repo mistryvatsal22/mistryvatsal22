@@ -95,7 +95,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Integrated a Retrieval-Augmented Generation (RAG) chatbot for intelligent scouting insights.
 - Designed interactive Tableau dashboards for player and team analytics.
 
-🔗 **GitHub:** *Add Repository Link*
+🔗 **GitHub:** *https://github.com/prat-debug/Football-ML-Project.git*
 
 ---
 
@@ -125,7 +125,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Implemented conversation memory for context-aware responses.
 - Designed an intuitive Streamlit interface for seamless user interaction.
 
-🔗 *[*GitHub](https://github.com/mistryvatsal22/Ollama-chat-Application.git):** *https://github.com/mistryvatsal22/Ollama-chat-Application.git*
+🔗 **GitHub:** *https://github.com/mistryvatsal22/Ollama-chat-Application.git*
 
 ---
 
@@ -139,8 +139,6 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Processed live webcam video for continuous facial landmark tracking.
 - Improved road safety through real-time fatigue detection and alert generation.
 
-🔗 **GitHub:** *Add Repository Link*
-
 ---
 
 ## 🛍️ One District, One Product
@@ -153,7 +151,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Managed product information using MongoDB.
 - Designed a responsive and user-friendly interface to promote local businesses and regional products.
 
-🔗 **GitHub:** *Add Repository Link*
+🔗 **GitHub:** *https://github.com/mistryvatsal22/One-District-One-Product.git*
 
 ---
 
