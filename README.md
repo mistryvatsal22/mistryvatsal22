@@ -12,7 +12,7 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 - Python
 - SQL
 
-### ⚙️ Big Data Ecosystem
+### Big Data Ecosystem
 - Apache Spark (PySpark)
 - Hadoop (HDFS)
 - Apache Hive
