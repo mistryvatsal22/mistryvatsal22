@@ -103,13 +103,12 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 **Tech Stack:** Python | PySpark | Hadoop | Hive | Kafka | Airflow | Tableau
 
-- Designed and developed a scalable Ride Sharing Analytics Platform.
-- Built end-to-end ETL pipelines for ride booking data.
-- Processed massive datasets using Apache Spark (PySpark).
-- Automated workflows with Apache Airflow.
-- Implemented real-time data ingestion using Apache Kafka.
-- Generated business insights including revenue, trip demand, customer behavior, weather impact, and driver performance.
-- Developed Tableau dashboards for operational analytics.
+- Designed and developed a scalable ride sharing analytics platform.
+- Built end-to-end ETL pipelines for ride booking data processing.
+- Processed large-scale datasets using Apache Spark (PySpark).
+- Automated data workflows using Apache Airflow.
+- Implemented real-time data ingestion with Apache Kafka.
+- Developed interactive Tableau dashboards for revenue, trip demand, customer behavior, driver performance, and operational insights.
 
 🔗 **GitHub:** *Add Repository Link*
 
@@ -121,32 +120,40 @@ I am a passionate **Data Engineer and AI enthusiast** with expertise in **Python
 
 - Developed a local AI-powered chatbot supporting multiple Large Language Models.
 - Implemented document-based question answering using Retrieval-Augmented Generation (RAG).
-- Added support for PDF, DOCX, Images, Websites, and Text documents.
+- Added support for PDF, DOCX, images, websites, and text documents.
 - Integrated ChromaDB for semantic vector search.
-- Added conversation memory for improved contextual responses.
+- Implemented conversation memory for context-aware responses.
 - Designed an intuitive Streamlit interface for seamless user interaction.
 
-🔗 **GitHub:** *
+🔗 **GitHub:** *Add Repository Link*
 
-🚗 Driver Drowsiness Detection System
+---
 
-Tech Stack: Python | OpenCV | Computer Vision
+## 🚗 Driver Drowsiness Detection System
 
-Developed a real-time driver drowsiness detection system using computer vision.
-Detected driver fatigue by monitoring eye movements and calculating the Eye Aspect Ratio (EAR).
-Triggered instant alerts when prolonged eye closure indicated drowsiness.
-Processed live webcam video for continuous facial landmark detection.
-Improved road safety by providing timely fatigue warnings to drivers.
+**Tech Stack:** Python | OpenCV | Computer Vision
 
-🛍️ One District, One Product
+- Developed a real-time driver drowsiness detection system using computer vision.
+- Detected driver fatigue by monitoring eye movements using the Eye Aspect Ratio (EAR).
+- Triggered instant alerts when signs of drowsiness were detected.
+- Processed live webcam video for continuous facial landmark tracking.
+- Improved road safety through real-time fatigue detection and alert generation.
 
-Tech Stack: MongoDB | Express.js | React.js | Node.js | JavaScript
+🔗 **GitHub:** *Add Repository Link*
 
-Developed a full-stack web application to showcase unique products from different districts across India.
-Built an interactive map interface allowing users to select their state and district.
-Implemented REST APIs for efficient product retrieval and management.
-Stored and managed product information using MongoDB.
-Designed a responsive and user-friendly interface to promote local businesses and regional products.
+---
+
+## 🛍️ One District, One Product
+
+**Tech Stack:** MongoDB | Express.js | React.js | Node.js | JavaScript
+
+- Developed a full-stack web application to showcase unique products from districts across India.
+- Built an interactive map interface for selecting states and districts.
+- Implemented REST APIs for efficient product management and retrieval.
+- Managed product information using MongoDB.
+- Designed a responsive and user-friendly interface to promote local businesses and regional products.
+
+🔗 **GitHub:** *Add Repository Link*
 
 ---
 
